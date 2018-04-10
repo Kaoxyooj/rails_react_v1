@@ -9,13 +9,12 @@ This is a Rails with React template project using Rails 5.2.* and routes that ar
 gem install foreman
 ```
 
-## To Start Server
-
+## Commands
 ```
+#To Start Server 
 foreman start -f Procfile.dev -p 3000
-```
-#### Run this Command if foreman doesn't start
-```
+
+#Run this Command if foreman doesn't start
 yarn upgrade webpack-dev-server@^2.11.1 -D
 ```
 
