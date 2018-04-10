@@ -1,6 +1,6 @@
 # Rails React v1
 
-This is a Rails with React template project using Rails 5.2 and routes that are controlled by React.
+This is a Rails with React template project using Rails 5.2.
 
 ## Install Foreman
 #### Important:  Do this outside of your project directory
@@ -22,11 +22,7 @@ yarn upgrade webpack-dev-server@^2.11.1 -D
 
 
 ## Routes
-```
-Root: '/'
-
-React Routing Example: '/test'
-```
+All routes are directed to the the root path: 'pages#root'.  React handles all of the routing from routes.js
 
 ## Original Source
 
