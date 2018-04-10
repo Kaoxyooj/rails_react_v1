@@ -1,6 +1,6 @@
 # Rails React v1
 
-This is a Rails with React template project using Rails 5.2.* and routes that are controlled by React.
+This is a Rails with React template project using Rails 5.2 and routes that are controlled by React.
 
 ## Install Foreman
 #### Important:  Do this outside of your project directory
