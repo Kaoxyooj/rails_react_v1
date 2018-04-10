@@ -3,7 +3,7 @@
 Rails with React Template Project
 
 ## Install Foreman
-### Important:  Do this outside of your project directory
+#### Important:  Do this outside of your project directory
 
 ```
 gem install foreman
