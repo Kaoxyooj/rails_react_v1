@@ -14,7 +14,10 @@ gem install foreman
 ```
 foreman start -f Procfile.dev -p 3000
 ```
-
+#### Run this Command if foreman doesn't start
+```
+yarn upgrade webpack-dev-server@^2.11.1 -D
+```
 
 ## Original Source
 
