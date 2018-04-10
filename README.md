@@ -20,6 +20,14 @@ foreman start -f Procfile.dev -p 3000
 yarn upgrade webpack-dev-server@^2.11.1 -D
 ```
 
+
+## Routes
+```
+Root: '/'
+
+React Routing Example: '/test'
+```
+
 ## Original Source
 
 https://blog.grillwork.io/create-a-ruby-on-rails-5-1-application-with-webpack-react-16-and-react-router-e2c16d267f73
